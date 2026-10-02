@@ -1,0 +1,22 @@
+varied,h,delta,sigma2,regime,alarm_fraction
+baseline,0.015,0.1,1.0,calibration end to expansion,0.12883100902379
+baseline,0.015,0.1,1.0,expanded episode,1.0
+baseline,0.015,0.1,1.0,after re-compaction,0.620677440266716
+h,0.01,0.1,1.0,calibration end to expansion,0.13259228876127974
+h,0.01,0.1,1.0,expanded episode,1.0
+h,0.01,0.1,1.0,after re-compaction,0.6299599462863493
+h,0.02,0.1,1.0,calibration end to expansion,0.12544708777686628
+h,0.02,0.1,1.0,expanded episode,1.0
+h,0.02,0.1,1.0,after re-compaction,0.6116792461566957
+delta,0.015,0.05,1.0,calibration end to expansion,0.19350697292863003
+delta,0.015,0.05,1.0,expanded episode,1.0
+delta,0.015,0.05,1.0,after re-compaction,0.7249976847564363
+delta,0.015,0.2,1.0,calibration end to expansion,0.08906890894175554
+delta,0.015,0.2,1.0,expanded episode,1.0
+delta,0.015,0.2,1.0,after re-compaction,0.4373974347101315
+sigma2,0.015,0.1,0.5,calibration end to expansion,0.20641919606234618
+sigma2,0.015,0.1,0.5,expanded episode,1.0
+sigma2,0.015,0.1,0.5,after re-compaction,0.7372410400074088
+sigma2,0.015,0.1,2.0,calibration end to expansion,0.08799425758818703
+sigma2,0.015,0.1,2.0,expanded episode,1.0
+sigma2,0.015,0.1,2.0,after re-compaction,0.42719195684385997
